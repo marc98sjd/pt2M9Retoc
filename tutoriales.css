@@ -10,8 +10,8 @@ header{
 	display: inline;
 }
 a{
-	color: white;
 	text-decoration: none;
+	color: black;
 }
 #right{
 	float: right;
@@ -34,4 +34,14 @@ a{
 }
 #pestanas .active{
    background-color: #f7cd9e;
+}
+#info{
+	font-size:180%;
+	margin-left: 5%;
+	margin-right: 5%;
+	padding-left: 5%;
+	padding-right: 5%;
+	background-color: #f7cd9e;
+	box-shadow: 20px 20px 50px 2px black;
+	border-radius: 5px;
 }
